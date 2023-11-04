@@ -1,7 +1,7 @@
 # DeltaLogging
 
 ##  Installation
-You can install PyLogger using pip:
+You can install DeltaLogging using pip:
 ```bash
 pip install  DeltaLogging
 ```
